@@ -1,3 +1,4 @@
+---
 <!--Headings-->
 # Heading 1
 ## Heading 2
@@ -66,6 +67,6 @@ __This text__ is Strong
 * [x] Task 3
 
 <!--Horizontal Rule-->
----
+
 ___
 
