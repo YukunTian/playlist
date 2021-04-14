@@ -1,44 +1,42 @@
 ---
-<!--Headings-->
+
 # Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
 
-<!--Italics -->
+
 *This text* is italic
 _This text_ is italic
 
-<!--Strong -->
+
 **This text** is Strong
 __This text__ is Strong
 
-<!--Strikethrough-->
+
 ~~This text~~ is Strikethrough
 
-<!--Blockquote-->
+
 > This is a quote
 
 
-<!--Code Blocks>
 
 
 ```
-
 javascript
 	fuction add(num1,num2){
 	return num1+num2;}
 	
 ```
 
-<!--Links-->
+
 [Baidu](http://www.baidu.com)
 
 [Baidu](http://www.baidu.com
 "Baidu")
-<!--bolded-->
+
 Love**is**bold
-<!--Blockquote-->
+
 > This is a quote
 >> This is a quote
 >> 
@@ -48,32 +46,31 @@ Love**is**bold
 * Item 3
    * Nested Item
    
-<!--oL-->   
+
 1. Item 1
 1. Item 2
 
-<!--Inline Code Block>
+
 `<p>This is a paragraph</p>`
 
-<!--Images-->
+
 ![Markdown Logo]
 (http://markdown-here.com/img/icon256.png)
 
-<!--Github Markdown-->
 
-<!--Tables-->
+
+
 | Name    | Email            |
 | ------- | ---------------- |
 | tyk     | 798468235@qq.com |
 | Name    | Email            |
 
 
-<!--Task Lists-->
 * [x] Task 1
 * [x] Task 2
 * [x] Task 3
 
-<!--Horizontal Rule-->
+
 
 ___
 
