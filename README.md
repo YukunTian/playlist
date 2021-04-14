@@ -70,7 +70,7 @@ Love**is**bold
 * [x] Task 2
 * [x] Task 3
 
-<https://github.com/tyk-kun/playlist/edit/master/README.md>
+<https://github.com/tyk-kun/playlist/blob/master/RRR.md>
 
 ___
 
