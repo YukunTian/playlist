@@ -23,7 +23,8 @@ __This text__ is Strong
 <!--Code Blocks>
 
 
-```javascript
+```
+javascript
 	fuction add(num1,num2){
 	return num1+num2;}
 ```
