@@ -19,6 +19,15 @@ __This text__ is Strong
 <!--Blockquote-->
 > This is a quote
 
+
+<!--Code Blocks>
+
+
+```javascript
+	fuction add(num1,num2){
+	return num1+num2;}
+```
+
 <!--Links-->
 [Baidu](http://www.baidu.com)
 
@@ -49,16 +58,6 @@ Love**is**bold
 
 <!--Github Markdown-->
 
-<!--Code Blocks>
-(```)bash
-   npm install
-   npm start
-(```)
-
-```javascript
-	fuction add(num1,num2){
-	return num1+num2;}
-```
 <!--Tables-->
 | Name    | Email            |
 | ------- | ---------------- |
