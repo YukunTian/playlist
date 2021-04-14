@@ -29,6 +29,7 @@ Love**is**bold
 <!--Blockquote-->
 > This is a quote
 >> This is a quote
+>> 
 <!--UL-->
 * Item 1
 * Item 2
@@ -40,7 +41,7 @@ Love**is**bold
 1. Item 2
 
 <!--Inline Code Block>
-``<p>This is a paragraph</p>``
+`<p>This is a paragraph</p>`
 
 <!--Images-->
 ![Markdown Logo]
@@ -49,10 +50,10 @@ Love**is**bold
 <!--Github Markdown-->
 
 <!--Code Blocks>
-```bash
+(```)bash
    npm install
    npm start
-```
+(```)
 
 ```javascript
 	fuction add(num1,num2){
