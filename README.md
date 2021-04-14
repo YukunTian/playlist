@@ -25,6 +25,8 @@ __This text__ is Strong
 [Baidu](http://www.baidu.com
 "Baidu")
 
+> This is a quote
+>> This is a quote
 <!--UL-->
 * Item 1
 * Item 2
