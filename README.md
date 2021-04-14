@@ -24,7 +24,9 @@ __This text__ is Strong
 
 [Baidu](http://www.baidu.com
 "Baidu")
-
+<!--bolded-->
+Love**is**bold
+<!--Blockquote-->
 > This is a quote
 >> This is a quote
 <!--UL-->
@@ -38,7 +40,7 @@ __This text__ is Strong
 1. Item 2
 
 <!--Inline Code Block>
-`<p>This is a paragraph</p>`
+``<p>This is a paragraph</p>``
 
 <!--Images-->
 ![Markdown Logo]
