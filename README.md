@@ -55,7 +55,7 @@ Love**is**bold
 
 
 ![image]
-(https://github.com/tyk-kun/playlist/blob/master/HOUSE.jpg)
+(https://github.com/tyk-kun/playlist/raw/master/HOUSE.jpg)
 
 
 
